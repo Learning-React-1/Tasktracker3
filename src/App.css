@@ -1,0 +1,13 @@
+:root{
+  --border-app-color:green;
+}
+
+
+.App{
+  border-radius: 5px;
+  border: 2px solid var(--border-app-color);
+  margin: auto;
+  margin-top: 10vh;
+  padding: 20px;
+  width: 30vw;
+}

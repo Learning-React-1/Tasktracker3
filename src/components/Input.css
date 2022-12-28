@@ -1,0 +1,20 @@
+.Input{
+   padding:1rem;
+}
+
+.inputclasstext>div{
+    padding:0.3rem;
+}
+.inputclasstext>input{
+    width:98.5%;
+    height: 1.6rem;
+}
+.inputclasscheckbox{
+    display: flex;
+    align-items: center;
+  padding: 0.3rem;
+}
+.inputclasssubmit{
+    padding:0.3rem;
+    width: 100%;
+}
